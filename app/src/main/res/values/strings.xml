@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Presentation Trainer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
